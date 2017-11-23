@@ -10,7 +10,7 @@ sudo apt-get upgrade
 
 ## java
 
-terminal -> `user@ubuntu:~$ sudo apt-get install openjdk-8-jre`
+terminal -> `sudo apt-get install openjdk-8-jre`
 
 ## install elasticsearch
 
