@@ -16,7 +16,7 @@ terminal -> `sudo apt-get install openjdk-8-jre`
 
 ### install gdebi
 
-terminal -> `sudo apt install gdebi`
+terminal -> `sudo apt-get install gdebi`
 
 ### download elasticsearch
 
